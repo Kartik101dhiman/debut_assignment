@@ -1,0 +1,84 @@
+.error {
+  color: red;
+}
+.formcontainer {
+  max-width: 400px;
+  border-radius: 12px;
+  background-color: rgb(235, 233, 233);
+  margin: auto;
+  padding: 30px 16px;
+}
+.heading {
+  text-align: center;
+  margin-bottom: 12px !important;
+}
+body {
+  /* background-color: rgb(110, 110, 110) !important; */
+}
+
+.formfooter {
+  display: flex;
+  justify-content: space-between;
+}
+.formlink a {
+  text-decoration: none;
+}
+.formlink a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.sidebarlist {
+  background-color: #67adf3 !important;
+  color: white;
+  height: 90vh;
+}
+
+.listitembutton:hover {
+  background-color: #1976d2 !important;
+}
+.tablecontainer {
+  width: 1000px !important;
+}
+
+.publiclayoutcontainer {
+  background-color: #1976d2 !important;
+  min-height: 100vh;
+  padding: 60px 0;
+}
+.Dashboardcontainer {
+  max-width: 1000px !important;
+  padding: 0px 100px !important;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+.cards {
+  width: 280px !important;
+  height: 150px;
+  background-color: #1976d2;
+  color: white;
+  margin: 6px 0 !important;
+  cursor: pointer;
+  padding: 30px 6px;
+  border-radius: 12px;
+}
+.cards:hover {
+  background-color: #67adf3;
+}
+.linkbar {
+  color: white !important;
+  text-decoration: none;
+}
+.privatechildren {
+  padding: 12px;
+  margin: auto !important;
+}
+
+.privatelayput {
+  background-color: rgb(220, 220, 220) !important;
+}
+
+.confirmmodal{
+  background-color: #67adf3;
+}

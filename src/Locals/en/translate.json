@@ -1,0 +1,22 @@
+{
+  "Posts": "Posts",
+  "Comments": "Comments",
+  "Albums": "Albums",
+  "Logo": "LOGO",
+  "Language": "Language",
+  "Logout": "Logout",
+  "UserID": "UserID",
+  "ID": "ID",
+  "Title": "Title",
+  "Body": "Body",
+  "Action": "Action",
+  "PostId": "PostId",
+  "Name": "Name",
+  "Email": "Email",
+  "Register": "Register",
+  "Reset": "Reset",
+  "Login": "Login",
+  "English": "English",
+  "Hindi": "Hindi",
+  "Dashboard": "Dashboard"
+}
