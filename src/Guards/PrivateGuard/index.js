@@ -16,3 +16,4 @@ const PrivateGuard = () => {
 };
 
 export default PrivateGuard;
+console.log("testing");
